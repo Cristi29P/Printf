@@ -1,0 +1,13 @@
+Rezolvare tema:
+
+->Primesc ca parametri string-ul de procesat cu specificatorii si variabilele de adaugat.
+->Imi aloc memorie pentru un buffer in care voi crea string-ul pe care il voi afisa la final.
+->Dupa ce initializez lista, parcurg string-ul pasat ca parametru caracter cu caracter si le
+adaug in buffer, atata timp cat nu intalnesc '%'.
+->Daca intalnesc '%', intru pe unul dintre cazurile specificate in enunt.
+->La final, eliberez memoria, afisez buffer-ul si nr. de caractere procesate.
+
+
+
+
+
